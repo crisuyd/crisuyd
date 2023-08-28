@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu perfil! Eu sou o Carlos Rodrigo.
 
-- 💻 Estudando JavaScript
+- 💻 Estudando React
 - 😀 Pronous: ele/dele
 
 <div align="center">
